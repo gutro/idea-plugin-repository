@@ -25,6 +25,6 @@
 		<name>TestNG To Junit 5 Converter</name>
 
 		<!-- The <idea-version> element must match the same element in plugin.xml. Required. -->
-		<idea-version since-build="2020.2.1" until-build="2021.*" />
+		<idea-version since-build="202.6948" until-build="202.*"/>
 	</plugin>
 </plugins>
