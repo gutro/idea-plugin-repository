@@ -19,7 +19,7 @@
 	</plugin-->
 
 	<plugin id="com.gearsofleo.intellij.testng.converter.plugin"
-			url="https://github.com/gutro/idea-plugin-repository/raw/master/testng-to-junit5-converter/testng-to-junit5-converter-0.0.1.zip"
+			url="https://github.com/gutro/idea-plugin-repository/raw/master/testng-to-junit5-converter/testng-to-junit5-converter-0.0.1.jar"
 			version="0.0.1">
 
 		<name>TestNG To Junit 5 Converter</name>
