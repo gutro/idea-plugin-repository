@@ -8,7 +8,7 @@ To use this plugin repository;
 - Add the URL `https://github.com/gutro/idea-plugin-repository/raw/master/updatePlugins.xml`.
 - Click `OK`.
 
-You should now be able to find plugins from this repository in the `Available` list.
+You should now be able to find plugins from this repository in the `Marketplace` list.
 
 The published plugins are;
 - [JAX-RS To Spring MVC Converter](https://github.com/gutro/jaxrs-to-springmvc-converter)
