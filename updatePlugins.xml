@@ -9,17 +9,18 @@
 	  url - path to download the plugin JAR/ZIP file. Required. Must be HTTPS
 	  version - version of this plugin. Required. Must match <version> in plugin.xml
 	-->
-	<!--plugin id="com.gearsofleo.intellij.rest.converter.plugin"
-			url="https://github.com/gutro/idea-plugin-repository/raw/master/jaxrs-to-springmvc-converter/jaxrs-to-springmvc-converter-0.0.1.zip"
+	<plugin id="com.gearsofleo.intellij.rest.converter.plugin"
+			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/jaxrs-to-springmvc-converter-0.0.1.jar"
 			version="0.0.1">
 
 		<name>JAX-RS To Spring MVC Converter</name>
 
-		<idea-version since-build="2020.2.1" until-build="2021.*" />
-	</plugin-->
+		<!-- The <idea-version> element must match the same element in plugin.xml. Required. -->
+		<idea-version since-build="202.6948" until-build="202.*"/>
+	</plugin>
 
 	<plugin id="com.gearsofleo.intellij.testng.converter.plugin"
-			url="https://github.com/gutro/idea-plugin-repository/raw/master/testng-to-junit5-converter/testng-to-junit5-converter-0.0.1.jar"
+			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/testng-to-junit5-converter-0.0.1.jar"
 			version="0.0.1">
 
 		<name>TestNG To Junit 5 Converter</name>
