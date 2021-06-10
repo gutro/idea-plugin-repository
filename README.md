@@ -20,7 +20,7 @@ To publish a new version of an already published plugin, you need to;
  1. Build the plugin locally (using `./gradlew buildPlugin`).
  1. Create a new tag in your plugin repository.
  1. Copy the .jar from `build/lib/` to [`plugins`](plugins) in this repository.
- 1. Update the entry in [`updatePlugins.xml`](updatePlugins.xml) with new file URL, 
+ 1. Update the entry in [`updatePlugins.xml`](updatePlugins-0.0.1.xml) with new file URL, 
  new version and possibly a new idea-version (the idea-version should be copied from 
  `build/patchedPluginXmlFiles/plugin.xml` in your plugin repository).
  1. Commit and push this repository.
