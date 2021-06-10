@@ -10,15 +10,15 @@
 	  version - version of this plugin. Required. Must match <version> in plugin.xml
 	-->
 	<plugin id="com.gearsofleo.intellij.rest.converter.plugin"
-			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/jaxrs-to-springmvc-converter-0.7.3.jar"
-			version="0.7.3">
+			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/jaxrs-to-springmvc-converter-0.0.2.jar"
+			version="0.0.2">
 		<name>JAX-RS To Spring MVC Converter</name>
 		<!-- The <idea-version> element must match the same element in plugin.xml. Required. -->
 		<idea-version since-build="211.7442" until-build="211.*"/>
 	</plugin>
 	<plugin id="com.gearsofleo.intellij.testng.converter.plugin"
-			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/testng-to-junit5-converter-0.7.3.jar"
-			version="0.7.3">
+			url="https://github.com/gutro/idea-plugin-repository/raw/master/plugins/testng-to-junit5-converter-0.0.2.jar"
+			version="0.0.2">
 		<name>TestNG To Junit 5 Converter</name>
 		<!-- The <idea-version> element must match the same element in plugin.xml. Required. -->
 		<idea-version since-build="211.7442" until-build="211.*"/>
